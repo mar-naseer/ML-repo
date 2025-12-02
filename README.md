@@ -1,3 +1,3 @@
 # ML-repo
 
-practice ML
+practice ML basics
